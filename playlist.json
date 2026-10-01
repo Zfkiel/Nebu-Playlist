@@ -1,11 +1,2640 @@
 {
   "Songs": [
     {
-      "Title": "VOID",
-      "Artist": "Nebu",
-      "Genre": "EDM",
-      "ImageId": "",
-      "SoundId": "rbxassetid://103103445552702",
+      "Header": "================ DJ (104 lagu) ================"
+    },
+
+    {
+      "Title": "stephanie",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://109905493646317",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BBHC",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://133701587933386",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "ALIVE",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://113389088593246",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BARUDAK PHONK",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://100536595288608",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "CINTA SATU MALAM",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://78655178103612",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "CARTEL",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://72763962004537",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BLOOD LINE",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://97340520237646",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "JANGAN GANGGU PACARKU",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://94322908379102",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "FREAK",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://132939905882595",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "SUN & MOON",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://94188043338078",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "TERROR",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://138238746255502",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "VOIS SUR TON",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://96399116580425",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Coba Coba",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://128533524585447",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Koplo Jedag Jedug Asik",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://118271518057643",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "MONTAGEM",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://86348785914191",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "TREND TANTE HOLIC - BUNGA MAWAR",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://110614468958134",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Bintang Lima Tapi",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://119988202144961",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Cindai",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://103216223873201",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "LZEN DROP ENAKEUN V50",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://93105477258376",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Already Gone",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://74880257953758",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BERONDONG TUA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://132107210857266",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "JANDA BODONG",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://139778269014721",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "MAMA MUDA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://93918078653546",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "MELODY",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://130174293570031",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "DI KALA GUNDAH",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://97973924135565",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Mangu BRB",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://102796225746546",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "SAYANG BREAKBEAT",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://107472403148871",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "SUMMERTIMES SADNESS X THE NIGHT",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://100087673110233",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BABY DONT GO",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://93285742522261",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "DI PARIS",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://97865901788886",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BASS",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://92752717442176",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "INDO",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75100681885157",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "JANGAN GILA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://111254942613507",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "KOPI LAMBADA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://112198149222228",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "sANDIWARA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://117404401258622",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "SWEET",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://136801619379287",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "TABOLA BALE",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://122219758666855",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "KATA MEREKA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://84498521648958",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BuAYA DARAT",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://92420779682234",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "MATI MATIAN",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://93803145053782",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "NEMEN",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://85615570939445",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "VOICE IN MY HEAD",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://117041975422685",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "LUNGAMU",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://118545932011986",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Million Stars",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://82357121520292",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "JEALOUSY",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://120322186377534",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "JOMBLO HAPPY",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://98438930901189",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "110 TENXI ELART",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://95301131564467",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "LOST WITHOUT YOU X FEELS LIKE HOME",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://99841236924451",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "AKU LAGI BETE",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://103390512287600",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "H KEXWELL",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://123491950599589",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BRING ME TO LIFE X PYRAMIDS SOUND",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://98444911361058",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "bodong",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://132259123644983",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "MORENA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83399937548339",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BOY JANGAN MALU MALU",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://132182205342744",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "KEONG RACUN VELOCITY",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://113072207483993",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "KAKA PU MANIS BIKIN SA SUKA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://92106070348306",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "CLBK V2 SLOWED",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101281829508321",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "POK ANI ANI BELALANG KUPU KUPU",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://116068789877161",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Thailand Power Ranger",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83242123330892",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "JOMBLO GELISAH",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://115399270627959",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "LOW CORTISOL",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://130084586857940",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "KICAU MANIA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://96487084312403",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "BOXING KARO",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://131811705588044",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Harlem Shake",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://108789168312499",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "AISHITERU",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://140018260982606",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SEVENTEEN JKT48",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://82849648391912",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "JAGUNG REBUS",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://117990803886206",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "KEONG RACUN X PLAIN JANE",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://137433506840207",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "ROCK MY BODY JUNGLE DUTCH",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://124762080345858",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "AMAKU BENTO BOXING MEDAN",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://140621795687773",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SINARAN",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://104460200581135",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Clarity",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://113953030415978",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Tersimpan Di Hati",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://102327751984678",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "ADA BAYANGMU",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75673384527602",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "CINTA 1 MALAM",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://136469828832147",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "YALLA HABIBI",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://95243347263579",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "We Like To Party",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://124980778164778",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "INFO INFO",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://94725558647657",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "POTA POTA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101199741618676",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "THAT SHOULD BE ME",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://111971128442844",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "NEGORO ANGIN",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://114977811855327",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SEBATAS FRIENDLY WUT WUT WUT",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75556353706807",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "BEAUTY AND A BEAT",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://138134549336119",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "HELIKOPTER TURUN KE PADANG",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://113821849158556",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Geboy Jarang Pulang DRILL REMIX",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://88335626927693",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SAYANG CINTAKU INI ISTIMEWA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://123734547438869",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Dj Bounce & Pa Boom Pa",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://82113112290167",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Dj buset gua kaget",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://80104904186045",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "sesi potret",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://78113026481599",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Goyang dumang x Hold on",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://73847466349640",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "HANDS UP MY FRIEND",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83825824225327",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DDU-DU DDU-DU X 33 MAX",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://82466199461751",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "2PACC X CINDAI",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://84774898688247",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Astaga Bercanda",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://89961200907539",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "My Mine Gueh",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://104071203416505",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PIKI PIKI",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://116843780850883",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "beso beso ay mama",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://124427540646772",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "KESEMPATAN KEDUA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://85159953292307",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DJ SALAH APA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://133832172254546",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DJ BARE MINIMUM",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://102322066050382",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DJ PAPA LIAT AKU",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://103673119393854",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DJ THE TIME",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://121908447458725",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DJ NAO PERCIBI",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://116372062563824",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DJ SOU FAVELA X FIGURINHA",
+      "Genre": "DJ",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://73986511451423",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ BKB (35 lagu) ================"
+    },
+
+    {
+      "Title": "ANGEL LOVE",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75677556698296",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "LADY BRAS",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://82070450735362",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "ARABIAN",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://85474266236466",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "LELAKI CADANGAN",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://100244445357535",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "HAMIL DULUAN",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://114834540804116",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "CHILDREN",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://116079860325375",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "CONCREATE ANGEL",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://125254529636637",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "MIRACLE",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://99653027197874",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "JAR OF HEART",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://94436823315724",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "PARADISE",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://126632587205182",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "SHELTER",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://77927978772882",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BEATIFUL LIE",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://82273424257978",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "RIVER FLOW",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://133705287811943",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "LOREEN TATTO",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://137405630387923",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "BOM BOM",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://123470634689828",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "WISNU YA HABIBII",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://70877641967156",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "ET ME KS",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://118620807124086",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "SHAKE UPP",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://119546222469725",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "Setangkai Bunga",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75752836303594",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "rapuhgramsstecu",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://126776202903142",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "GELORA ASMARA BREAKBEAT",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://127331218720957",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "AFTERSHOCK",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://130658182239805",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "BELIEVE",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://95853613434496",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "YOU DON'T EVEN YOU KNOW",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://120052933597909",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "BLACKHOLE",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://94607802315101",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "WHERE HAVE YOU BEEN",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://139796916303085",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "LEMBO",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://112137420137756",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "HOLD ON",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://109135788136766",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "THE ONE THAT GOT AWAY",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://134603877137850",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "IF I LOSE MYSELF",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://126526115567536",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "MILLION STARS",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://82124227306256",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "ZUMI ZA",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://129567954350702",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "THE FATE OF OPHELIA",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://91884064351987",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DALINDA",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83020174556017",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "THIS I VOW STADIUM BREAKBEAT",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://133161018521573",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ Funkot (61 lagu) ================"
+    },
+
+    {
+      "Title": "AKU BETE",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://95708212463501",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "JANGAN TUNGGU LAMA LAMA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://116358927184018",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "ANAK KALIMANTAN",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101179588080301",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "AYANG",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://109530921532730",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "KEKASIH GELAPKU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101429302765276",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "BROKEN ANGEL",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://103691473375770",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "AFRICADO",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://85295398270259",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "GARAM CINA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://81691900324593",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "ASMARA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://81898980979979",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SEMAKIN KU KEJAR SEMAKIN KAU JAUH",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://115980691289881",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PONTIANAK",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://79619686629243",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "funkot sayang supernova",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://95875459584270",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "BAWA AKU LARI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://135268601202479",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "TERBANG BERSAMAKU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://96784424475560",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "ONE MORE NIGHT",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://134493045772065",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DEWI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://102176447190555",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SEKERAS BATU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://73505218829865",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "JANGAN TUNGGU LAMA LAMA 2",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://72798312615901",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Super Awesome Party Music",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://127764128256731",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DENOK",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://120536749164631",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SEBATAS TEMAN",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://99556341694765",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "UJUR ISIH SOK KELINGAN",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://110110380423642",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PUJAAN HATI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://77364857564433",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "CURI CURI PANDANG",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://139116905061296",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "AKU KAU SAKITI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://114634102526810",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "CINTA TAK DIRESTUI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://121718383996207",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "GAK SUKA FUNKOT",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://74482019338257",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "RELA KAU TINGGALKAN",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://72805727342091",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PERCERAIAN LARA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://99490622259674",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SUCI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://97900063491719",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "KAMU DIMANA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://138260202599886",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "CLBK",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://87414720618981",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SIAPA DIHATIMU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://76620805830415",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "TERLENA DI BUAI DUSTA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101822139494875",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "HABIS 1 1",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://136701928047621",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "GORESAN LUKA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://137868589896880",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "HAPUS AKU X TERBANG BERSAMAKU PART 1",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://95133135003128",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "HAPUS AKU X TERBANG BERSAMAKU PART 2",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://118745940000777",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "KAMNH",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://136337091018242",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "RINDU AKU RINDU KAMU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://119641235493584",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PACAR SELINGAN HATIKU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://113129487148379",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "BALINESE SAYANG",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://97061116965315",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "HATIKU HANYALAH MAINANMU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://84713617867980",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SAAT KAU PERGI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101172737230897",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "FUNKOT ISABELLA X SUCI DALAM DEBU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://88359397716872",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SELENDANG BIRU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://95553830999495",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "KEMBALI LAH CINTA HATI INI MEMINTA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://70995311183794",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Kelingan Mantan",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://119774056840376",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Bang Jono",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://76802780556489",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "KINI SETELAH KU TEMUKAN DIA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://134125854517917",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "MENTERI DURMAGATI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://127865160748816",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "TERLALU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://86612644113909",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SIN PIJAMA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://118201287038500",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "1 + 1",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://117661961205990",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DUA DUA NYA SAMA SAMA KU SUKA",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://77303516207944",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PILIHAN HATIKU",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://89723924061381",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PAYPHONE MAROON 5",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://107183318613725",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SERANA FOR REVENGE",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://94828056890392",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PENJAGA HATI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://97585882408410",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "TAK SEDALAM INI",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://121028673030000",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DARI UJUNG KUKU SAMPAI RAMBUT",
+      "Genre": "Funkot",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://106886738719118",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ Koplo (11 lagu) ================"
+    },
+
+    {
+      "Title": "Rapsodi",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://139697263237195",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Heavy Rotation",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://126278887554168",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Empat Mata",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://78320720168463",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Bilang I Love You",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://97256332111446",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Cari Pacar Lagi",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://122874636534829",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Tabola Bale",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://115102010847725",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Tanpa Cinta",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://118930191122667",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Terlalu Lama",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://129442838950089",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "If You Know That I'm Lonely",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://117800273097461",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Fortune Cookies",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://84595475062346",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Sialan",
+      "Genre": "Koplo",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://135114696977075",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ Reggae (19 lagu) ================"
+    },
+
+    {
+      "Title": "Gembira Adalah Obat",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://78738102426138",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Tertanam",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://95228653442023",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Don't Worry U Yeah",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://82621019061447",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Sebatang Rokok",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://106413818124545",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Paris Van Java",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://139236103457888",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Kangen",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://91520591725067",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Wanita Munafik",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://98015475073353",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Di Sayidan",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://77408760767118",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "CINTA DI PANTAI BALI",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://112016406339879",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Faith Move Mountain",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://129615567627328",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "KOPI HITAM KUPU KUPU",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://138671594922070",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Republik Mafia",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://115025545355365",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Republik Sulap",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://119829962683117",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Kongkalikong",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101775620232008",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "One Love People Get Ready",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://136533898690454",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Pacarku Yang Cantik",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101351121033705",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Tak Selalu",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://105679955655986",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Gara - Gara Rasta",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://122561277783416",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Don't Worry",
+      "Genre": "Reggae",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://139167366564797",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ Ska (25 lagu) ================"
+    },
+
+    {
+      "Title": "Tetap tersenyum kawan",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://117443814454670",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Anak Kecil",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://91573529144979",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Pelangi Baruku",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://103731204153010",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Cantik Tak Menarik",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://129966127760827",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "hitam putih",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://74801704119550",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DI SARANKAN DI BANDUNG",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75354706940594",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Jarak Dan Kita",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://134576237712735",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Cepu",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://91476447119633",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Kecewa",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://76909749255823",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Ada Aku Disini",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://132817292885045",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "kenangan sebuah mimpi",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://136347162602799",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "mimpi semata",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://140216766197631",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "wanita masih banyak",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://137725633139398",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Hilang Harapan",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://84570342531330",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Introvert",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://97366450753572",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Sunset Di Tanah Anarki",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://78954518098411",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Bulan & Ksatria",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://128778355237769",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Jika Kami Bersama",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://130531265234113",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Sampai Nanti",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75069775900026",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Menghilang dan Berarti",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101888465617140",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Dewi",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://124445997252531",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Alholic",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://140710744146448",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Putuskan Saja Pacarmu",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://118442441783470",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "kuat kita bersinar",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://137640820590243",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Mirip Pacarku",
+      "Genre": "Ska",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://127369341519845",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ BRB (7 lagu) ================"
+    },
+
+    {
+      "Title": "ADA BAYANG MU",
+      "Genre": "BRB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://105810465277279",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "ALAMAT PALSU",
+      "Genre": "BRB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://70786804215783",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "MALAM PAGI",
+      "Genre": "BRB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://89819119367555",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "MEJIKUBINU",
+      "Genre": "BRB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://114890626106658",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "RINDU AKU DAN KAMU JADI 1",
+      "Genre": "BRB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://133181627832106",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "SIAPA DI HATI MU",
+      "Genre": "BRB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83197971354754",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "PARTY ON FIRE",
+      "Genre": "BRB",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://114774622050552",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ ROCK (1 lagu) ================"
+    },
+
+    {
+      "Title": "CAHAYA BIDADARI",
+      "Genre": "ROCK",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://108000756446650",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ IDBC (4 lagu) ================"
+    },
+
+    {
+      "Title": "BAD BOY 010",
+      "Genre": "IDBC",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://88932630757349",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "RAKATA 012",
+      "Genre": "IDBC",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://135551944326225",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "TEROMPET 019",
+      "Genre": "IDBC",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75826561735800",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "ROY RICARDO SLEEP",
+      "Genre": "IDBC",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://117123518135268",
+      "Speed": 1.0
+    },
+
+
+
+    {
+      "Header": "================ Random (13 lagu) ================"
+    },
+
+    {
+      "Title": "CELORMX",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://98651785133576",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "MY HUMPS",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://78562854944065",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Calabria",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://119594980613696",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Happy Nation",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://89912352240504",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Lullaby",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://81908320100298",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Turn It Up",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83414997825811",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "R3SPAWN E",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://123214146620534",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "BMU PARTY",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://99966567009847",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "CRAZY FROG",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://100858440872256",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "THE LOTUS",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://86981717742783",
+      "Speed": 1.0
+    },
+
+    {
+      "Title": "FASION CENTER",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://88254463096806",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "DOPAMINE",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://107341489945824",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "TRAINING SEASON",
+      "Genre": "Random",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://74728924949829",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ MASHUP (8 lagu) ================"
+    },
+
+    {
+      "Title": "On The Floor X Stereo Love",
+      "Genre": "MASHUP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83576156605396",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Low X Tokyo Drift",
+      "Genre": "MASHUP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://103954660990040",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Stephanie x Y Que Fue",
+      "Genre": "MASHUP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://139652877102872",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Flo Rida - Low",
+      "Genre": "MASHUP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://94167985845883",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Timbaland - Give It To Me",
+      "Genre": "MASHUP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://81136371191460",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Pitbull - Hotel Room Service",
+      "Genre": "MASHUP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://101065696025458",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "INTO YOU X BYE",
+      "Genre": "MASHUP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83082800088770",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SaWaDiKa",
+      "Genre": "MASHUP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://127345484165766",
+      "Speed": 0.43
+    },
+
+
+
+    {
+      "Header": "================ MASHUP AND R&B HIP HOP (33 lagu) ================"
+    },
+
+    {
+      "Title": "Love Tonight x Give Me Everything x Aria",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://81190664545818",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Eenie Meenie vs. Danza Kuduro",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://138704531910941",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Party In The U.S.A. vs. Loyal",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://79369774425631",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Hip-Hop Mashup by 917Josh",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://77511377859109",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Only Girl vs. Break Free",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://85489045592991",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Get Low vs. Freek-A-Leek",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://96473747565692",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Super Bass vs. S&M",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://114281683113842",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Abracadabra vs. Alors On Danse",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://91459386318607",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "The Days vs. Memories",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://129591563570939",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Rock That Body vs. Dynamite",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://85378041855386",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Just Keep Watching vs. Outside",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://108550345835261",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "She Doesnt Mind vs. Danza Kuduro",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://79356603700210",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Bad Romance vs. JUMP",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://139438368466263",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "2000's Hip-Hop Remix",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://100813486428344",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Tyga Swish",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://70893260630759",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Hip-Hop R&B Hits - 90s v 00s",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://132957504735129",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "50 Cent & MOLIY & Silent Addy",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://89804723856324",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Pop Smoke, Eminem, 2Pac - GTA San Andreas",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://118114768552302",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Jump Around",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://90322132277062",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Ice Ice Baby",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://96708706116628",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Mbak Billie",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://75910876840445",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Party With A Jagaban",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://134056747476554",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "she goes by",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://98364786976199",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Play Date",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://114716538792594",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Bigroom Never Dies x Heads Will Roll",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://103359561769484",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Waiting For Love",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://93325817501880",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "SICKO MODE",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://136870365193007",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Company",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://137230590795248",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "LOSE CONTROL",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://94216179996173",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "goosebumps",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://99085487317886",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "Eminem- Without Me",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://83094320887779",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "ILLIT x 2Pac",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://135534548313260",
+      "Speed": 0.43
+    },
+
+    {
+      "Title": "write this down",
+      "Genre": "MASHUP AND R&B HIP HOP",
+      "ImageId": "rbxassetid://89390778066768",
+      "SoundId": "rbxassetid://74375111308771",
       "Speed": 0.43
     }
   ]
